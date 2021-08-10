@@ -1,0 +1,10 @@
+O que é Socket.io?
+O Socket.io é um tecnologia que trabalha com  websocket, que permite a construção
+de aplicações em tempo real.
+Socket.io é uma biblioteca javascript que trabalah com o node.js, para criações de aplicações
+em tempo real.
+bibliotecas microsoft signal.r no c#
+
+Protocolo HTTP
+
+ele é STATELESS: ele nao mantem um conexão direta entre o servidor eo cliente
